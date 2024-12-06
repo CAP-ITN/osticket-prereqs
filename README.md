@@ -17,10 +17,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Have your VM up and running.
+- Download Zip file for osTicket files.
+- After Extracting all the files, you will check off IIS (Internet Information Services), click through WWW (World Wide Web Services), click through Application Development Features, and lastly check off CGI.
+- You will start installing the rest of the programs that have come in the zip file.
 - Item 5
 
 <h2>Installation Steps</h2>
