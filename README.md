@@ -17,11 +17,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- 
-- 
-- 
-- 
-- 
+- Install osTicket zip file, after unzipping the following will appear:
+- PHPManagerForIIS (Hypertext Preprocessor)
+- Rewrite Module
+- VC_redist
+- MySQL
+- osTicket
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
