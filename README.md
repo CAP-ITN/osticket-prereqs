@@ -66,3 +66,10 @@ Finish installing HeidiSQL, create a session user/password (whatever user/passwo
 
 ![SuccessosTicketInstall](https://github.com/user-attachments/assets/c7eb9aea-4d8b-4608-b3a7-cd4506a924e5)
 
+
+</p>
+<p>
+Congrats! osTicket should be installed!
+</p>
+<br />
+
