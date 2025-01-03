@@ -49,9 +49,12 @@ You will then open up IIS as an Admin, to register the PHP. To make sure that ha
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![osTicket](https://github.com/user-attachments/assets/70d5b995-80d8-4228-83c0-33685f07a64b)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While still in IIS click through sites, Default then osTicket. On the right panel click "Browse *:80" 
 </p>
 <br />
