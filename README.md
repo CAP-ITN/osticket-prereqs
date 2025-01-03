@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-- Have your VM up and running. Download Zip file for osTicket files and proceed to unzip them. After Extracting all the files, you will check off IIS (Internet Information Services), click through WWW (World Wide Web Services), click through Application Development Features, and lastly check off CGI. Install PHP Manager and Rewrite Module. Continue by making a directory, "C:/PHP" to unzip the PHP 7.3.8 Folder into. Continue by installing VC_Redist and MySQL.
+- Have your VM up and running. Download Zip file for osTicket files and proceed to unzip them. After Extracting all the files, you will check off IIS (Internet Information Services), click through WWW (World Wide Web Services), click through Application Development Features, and lastly check off CGI. Install PHP Manager and Rewrite Module. Continue by making a directory, "C:/PHP" to unzip the PHP 7.3.8 Folder into. Continue by installing VC_Redist and MySQL. Configure MySQL as well as create a memorable username and password.
 </p>
 <br />
 
