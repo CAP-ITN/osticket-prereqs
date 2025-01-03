@@ -60,6 +60,9 @@ While still in IIS click through sites, Default, then osTicket. On the right pan
 
 </p>
 <p>
-meep
+Finish installing HeidiSQL, create a session user/password (whatever user/password you created earlier for MySQL), connect to it then create a database called "osTicket". Continue by setting up osTicket in browser. Then hit install.
 </p>
 <br />
+
+![SuccessosTicketInstall](https://github.com/user-attachments/assets/c7eb9aea-4d8b-4608-b3a7-cd4506a924e5)
+
