@@ -41,7 +41,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![IIS Admin](https://github.com/user-attachments/assets/3f9c8e4b-ebe7-4989-8b03-fbb319ee454b)
 
-
 </p>
 <p>
 You will then open up IIS as an Admin, to register the PHP. To make sure that happens, go to PHP Manager and click the php-cgi folder, proceed to stop and start to "reload" IIS. Then we will install osTicket 1.15.8. unzip osTicket 1.15.8 and copy upload folder into c:\inetpub\wwwroot, very IMPORTANT to rename "upload" into "osTicket" verbatim. Then reload IIS.
@@ -52,9 +51,8 @@ You will then open up IIS as an Admin, to register the PHP. To make sure that ha
 
 ![osTicket](https://github.com/user-attachments/assets/70d5b995-80d8-4228-83c0-33685f07a64b)
 
-
 </p>
 <p>
-While still in IIS click through sites, Default then osTicket. On the right panel click "Browse *:80" 
+While still in IIS click through sites, Default, then osTicket. On the right panel click "Browse *:80". Follow up by going back to IIS, Sites, Default and osTicket. Lastly open up PHP Manager and enable php_imap.dll, php_intl.dll, and php_opcache.dll. Browse the files "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" and rename ost-sampleconfig.php to ost-config.php. 
 </p>
 <br />
