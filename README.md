@@ -36,7 +36,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Have your VM up and running. Download Zip file for osTicket files and proceed to unzip them. After Extracting all the files, you will check off IIS (Internet Information Services), click through WWW (World Wide Web Services), click through Application Development Features, and lastly check off CGI. Install PHP Manager and Rewrite Module. Continue by making a directory, "C:/PHP" to unzip the PHP 7.3.8 Folder into. Continue by installing VC_Redist and MySQL. Configure MySQL as well as create a memorable username and password.
 </p>
 <br />
-
 <p>
 
 ![IIS Admin](https://github.com/user-attachments/assets/3f9c8e4b-ebe7-4989-8b03-fbb319ee454b)
@@ -46,7 +45,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 You will then open up IIS as an Admin, to register the PHP. To make sure that happens, go to PHP Manager and click the php-cgi folder, proceed to stop and start to "reload" IIS. Then we will install osTicket 1.15.8. unzip osTicket 1.15.8 and copy upload folder into c:\inetpub\wwwroot, very IMPORTANT to rename "upload" into "osTicket" verbatim. Then reload IIS.
 </p>
 <br />
-
 <p>
 
 ![osTicket](https://github.com/user-attachments/assets/70d5b995-80d8-4228-83c0-33685f07a64b)
@@ -54,5 +52,14 @@ You will then open up IIS as an Admin, to register the PHP. To make sure that ha
 </p>
 <p>
 While still in IIS click through sites, Default, then osTicket. On the right panel click "Browse *:80". Follow up by going back to IIS, Sites, Default and osTicket. Lastly open up PHP Manager and enable php_imap.dll, php_intl.dll, and php_opcache.dll. Browse the files "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" and rename ost-sampleconfig.php to ost-config.php. 
+</p>
+<br />
+
+![HeidiSQL](https://github.com/user-attachments/assets/f87d22d9-7877-4d47-970d-e854bf10f509)
+
+
+</p>
+<p>
+meep
 </p>
 <br />
