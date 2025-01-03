@@ -44,7 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will then open up IIS as an Admin, to register the PHP. To make sure that happens, go to PHP Manager and click the php-cgi folder, proceed to stop and start to "reload" IIS. Then we will install osTicket 1.15.8. unzip osTicket 1.15.8 and copy upload folder into c:\inetpub\wwwroot, very IMPORTANT to rename "upload" into "osTicket" verbatim. Then reload IIS.
 </p>
 <br />
 
