@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Create an Azure Virtual Machine (VM): To start, login to your Azure portal and navigate to the Virtual Machines section. Click on "Create" and select "Virtual Machine." Choose Windows 10 as the OS, set the VM name to whatever you'd like, and configure the hardware with 4 vCPUs. For authentication, set the username as Sprinkles and the password as VMLabRules123. Once all settings are confirmed, launch the VM and wait to complete. After the VM is up and running, use Remote Desktop Connection (RDP) to log into the VM with the credentials provided.
+Create an Azure Virtual Machine (VM): To start, login to your Azure portal and navigate to the Virtual Machines section. Click on "Create" and select "Virtual Machine." Choose Windows 10 as the OS, set the VM name to whatever you'd like, and configure the hardware with 4 vCPUs. For authentication, set the username as <username> and the password <password>. Once all settings are confirmed, launch the VM and wait to complete. After the VM is up and running, use Remote Desktop Connection (RDP) to log into the VM with the credentials provided.
 </p>
 <br />
 <p>
@@ -52,7 +52,7 @@ Prepare the VM for osTicket Installation: Inside the VM, download the osTicket-I
 </p>
 <p>
 Configure PHP and Install MySQL
-Create a directory at C:\PHP and extract PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into this folder. Next, install VC_redist.x86.exe to ensure all required dependencies are available. Proceed to install MySQL 5.5.62 (mysql-5.5.62-win32.msi) using the Typical Setup option. After installation, launch the Configuration Wizard, select Standard Configuration, and set the username and password as root/root. Once configured, MySQL should be ready for use with osTicket.
+Create a directory at C:\PHP and extract PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into this folder. Next, install VC_redist.x86.exe to ensure all required dependencies are available. Proceed to install MySQL 5.5.62 (mysql-5.5.62-win32.msi) using the Typical Setup option. After installation, launch the Configuration Wizard, select Standard Configuration, and set the username and password as sometthing simple <root/root>. Once configured, MySQL should be ready for use with osTicket.
 </p>
 <br />
 
